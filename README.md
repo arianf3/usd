@@ -2,16 +2,15 @@
 
 # 📊 نبض بازار | قیمت لحظه‌ای و تاریخچه ارز، طلا و سکه
 
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Web_App-10b981?style=for-the-badge&logo=safari&logoColor=white)](https://arianf3.github.io/usd/)
 [![Auto Update](https://img.shields.io/badge/Auto--Update-Every_30_Minutes-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![API Status](https://img.shields.io/badge/API-Live_&_Free-3b82f6?style=for-the-badge&logo=json&logoColor=white)](#-وب‌سرویس-و-دسترسی-api)
 [![Timezone](https://img.shields.io/badge/Timezone-Tehran_(UTC%2B3:30)-f59e0b?style=for-the-badge)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-@rad_protocol-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rad_protocol)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-@rad__protocol-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rad_protocol)
 
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۴ مهر ۱۴۰۵ (2026-10-06) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۲:۴۵** (به وقت تهران)
+> 📅 **تاریخ:** ۱۴ مهر ۱۴۰۵ (2026-10-06) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۲:۵۸** (به وقت تهران)
 
 <br/>
 
@@ -38,7 +37,7 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۹،۶۸۶ تومان</b></td>
+<td align="left"><b>۲۶۹،۷۰۸ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
@@ -48,7 +47,7 @@
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۳،۴۲۰ تومان</b></td>
+<td align="left"><b>۷۳،۴۳۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
@@ -118,7 +117,7 @@
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴،۱۷۸.۴۱ دلار</b></td>
+<td align="left"><b>۴،۱۷۶.۳۳ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
@@ -128,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۹.۶۰ دلار</b></td>
+<td align="left"><b>۸۹.۶۴ دلار</b></td>
 </tr>
 
 </tbody>
