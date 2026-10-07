@@ -8,6 +8,17 @@ const https = require('https');
 const tls = require('tls');
 const { URL } = require('url');
 
+// Load local .env safely if present
+try {
+  const localEnv = require('fs').readFileSync(require('path').join(__dirname, '.env'), 'utf8');
+  localEnv.split('\n').forEach(line => {
+    const parts = line.split('=');
+    if (parts.length >= 2 && parts[0].trim()) {
+      process.env[parts[0].trim()] = parts.slice(1).join('=').trim();
+    }
+  });
+} catch (e) {}
+
 const BOT_TOKEN = process.env.TELEGRAM_TOKEN || 'YOUR_BOT_TOKEN_HERE';
 const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}`;
 const PROXY_URL = process.env.TELEGRAM_PROXY || 'http://127.0.0.1:20808';
