@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۶ مهر ۱۴۰۵ (2026-10-08) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۰:۲۲** (به وقت تهران)
+> 📅 **تاریخ:** ۱۷ مهر ۱۴۰۵ (2026-10-09) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۱:۲۹** (به وقت تهران)
 
 <br/>
 
@@ -37,37 +37,37 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۷،۴۹۰ تومان</b></td>
+<td align="left"><b>۲۶۷،۴۰۲ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۹،۳۰۰ تومان</b></td>
+<td align="left"><b>۲۹۹،۹۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇪</td>
 <td><b>درهم امارات</b></td>
-<td align="left"><b>۷۲،۸۳۰ تومان</b></td>
+<td align="left"><b>۷۲،۸۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇹🇷</td>
 <td><b>لیر ترکیه</b></td>
-<td align="left"><b>۵،۵۲۰ تومان</b></td>
+<td align="left"><b>۵،۵۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇬🇧</td>
 <td><b>پوند انگلیس</b></td>
-<td align="left"><b>۳۴۹،۸۰۰ تومان</b></td>
+<td align="left"><b>۳۵۰،۳۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۱۸۷،۷۰۰ تومان</b></td>
+<td align="left"><b>۱۸۷،۹۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
 <td><b>دلار استرالیا</b></td>
-<td align="left"><b>۱۸۶،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۸۶،۱۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇨🇳</td>
@@ -107,17 +107,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۶،۲۷۷،۷۶۰ تومان</b></td>
+<td align="left"><b>۲۶،۳۰۵،۴۶۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۳،۸۳۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۳،۹۵۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴،۱۱۸.۰۵ دلار</b></td>
+<td align="left"><b>۴،۱۳۳.۶۰ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
@@ -127,7 +127,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۹۱.۲۵ دلار</b></td>
+<td align="left"><b>۹۱.۴۹ دلار</b></td>
 </tr>
 
 </tbody>
