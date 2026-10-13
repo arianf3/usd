@@ -3,11 +3,11 @@
   "title": "ربع سکه",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-10-13 19:51:28",
-  "total_records": 1172,
+  "updated_at": "2026-10-14 00:59:57",
+  "total_records": 1173,
   "latest": {
-    "timestamp": 1791908488,
-    "date": "2026-10-13",
+    "timestamp": 1791926997,
+    "date": "2026-10-14",
     "price": 71500000,
     "price_toman": 71500000,
     "price_irr": 715000000
@@ -10541,6 +10541,13 @@
     {
       "timestamp": 1791908488,
       "date": "2026-10-13",
+      "price": 71500000,
+      "price_toman": 71500000,
+      "price_irr": 715000000
+    },
+    {
+      "timestamp": 1791926997,
+      "date": "2026-10-14",
       "price": 71500000,
       "price_toman": 71500000,
       "price_irr": 715000000
