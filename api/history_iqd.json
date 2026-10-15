@@ -3,10 +3,10 @@
   "title": "۱۰۰ دینار عراق",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-10-15 16:19:36",
+  "updated_at": "2026-10-15 21:13:41",
   "total_records": 1181,
   "latest": {
-    "timestamp": 1792068576,
+    "timestamp": 1792086221,
     "date": "2026-10-15",
     "price": 16980,
     "price_toman": 16980,
@@ -8274,7 +8274,7 @@
       "price_irr": 168700
     },
     {
-      "timestamp": 1792068576,
+      "timestamp": 1792086221,
       "date": "2026-10-15",
       "price": 16980,
       "price_toman": 16980,
