@@ -3,10 +3,10 @@
   "title": "سام قرقیزستان",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-10-22 19:05:15",
+  "updated_at": "2026-10-22 22:56:38",
   "total_records": 1188,
   "latest": {
-    "timestamp": 1792683315,
+    "timestamp": 1792697198,
     "date": "2026-10-22",
     "price": 3135,
     "price_toman": 3135,
@@ -8323,7 +8323,7 @@
       "price_irr": 31100
     },
     {
-      "timestamp": 1792683315,
+      "timestamp": 1792697198,
       "date": "2026-10-22",
       "price": 3135,
       "price_toman": 3135,
