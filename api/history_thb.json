@@ -3,14 +3,14 @@
   "title": "بات تایلند",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-10-29 00:00:42",
+  "updated_at": "2026-10-29 03:49:49",
   "total_records": 1195,
   "latest": {
-    "timestamp": 1793219442,
+    "timestamp": 1793233189,
     "date": "2026-10-29",
-    "price": 8020,
-    "price_toman": 8020,
-    "price_irr": 80200
+    "price": 8010,
+    "price_toman": 8010,
+    "price_irr": 80100
   },
   "history": [
     {
@@ -8372,11 +8372,11 @@
       "price_irr": 80100
     },
     {
-      "timestamp": 1793219442,
+      "timestamp": 1793233189,
       "date": "2026-10-29",
-      "price": 8020,
-      "price_toman": 8020,
-      "price_irr": 80200
+      "price": 8010,
+      "price_toman": 8010,
+      "price_irr": 80100
     }
   ]
 }
