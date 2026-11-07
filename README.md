@@ -10,7 +10,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۶ آبان ۱۴۰۵ (2026-11-07) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۳:۳۸** (به وقت تهران)
+> 📅 **تاریخ:** ۱۷ آبان ۱۴۰۵ (2026-11-08) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۳:۲۳** (به وقت تهران)
 
 <br/>
 
@@ -62,7 +62,7 @@
 <tr>
 <td align="center">🇨🇦</td>
 <td><b>دلار کانادا</b></td>
-<td align="left"><b>۱۸۸،۸۰۰ تومان</b></td>
+<td align="left"><b>نامشخص</b></td>
 </tr>
 <tr>
 <td align="center">🇦🇺</td>
@@ -92,7 +92,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۳۷،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>نامشخص</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -112,12 +112,12 @@
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۰،۴۲۰،۰۰۰ تومان</b></td>
+<td align="left"><b>نامشخص</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴،۰۶۷.۸۶ دلار</b></td>
+<td align="left"><b>۴،۰۶۸.۶۶ دلار</b></td>
 </tr>
 
 <!-- کامودیتی -->
