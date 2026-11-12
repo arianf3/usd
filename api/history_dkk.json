@@ -3,14 +3,14 @@
   "title": "کرون دانمارک",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-12 01:21:24",
+  "updated_at": "2026-11-12 06:21:06",
   "total_records": 1209,
   "latest": {
-    "timestamp": 1794433884,
+    "timestamp": 1794451866,
     "date": "2026-11-12",
-    "price": 39300,
-    "price_toman": 39300,
-    "price_irr": 393000
+    "price": 39280,
+    "price_toman": 39280,
+    "price_irr": 392800
   },
   "history": [
     {
@@ -8470,11 +8470,11 @@
       "price_irr": 390600
     },
     {
-      "timestamp": 1794433884,
+      "timestamp": 1794451866,
       "date": "2026-11-12",
-      "price": 39300,
-      "price_toman": 39300,
-      "price_irr": 393000
+      "price": 39280,
+      "price_toman": 39280,
+      "price_irr": 392800
     }
   ]
 }
