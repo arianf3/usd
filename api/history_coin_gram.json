@@ -3,10 +3,10 @@
   "title": "سکه گرمی",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-16 03:48:38",
+  "updated_at": "2026-11-16 10:41:10",
   "total_records": 1242,
   "latest": {
-    "timestamp": 1794788318,
+    "timestamp": 1794813070,
     "date": "2026-11-16",
     "price": 36000000,
     "price_toman": 36000000,
@@ -11101,7 +11101,7 @@
       "price_irr": 360000000
     },
     {
-      "timestamp": 1794788318,
+      "timestamp": 1794813070,
       "date": "2026-11-16",
       "price": 36000000,
       "price_toman": 36000000,
