@@ -3,14 +3,14 @@
   "title": "۱۰۰ لیر سوریه",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-19 03:43:53",
+  "updated_at": "2026-11-19 11:20:37",
   "total_records": 1216,
   "latest": {
-    "timestamp": 1795047233,
+    "timestamp": 1795074637,
     "date": "2026-11-19",
-    "price": 219270,
-    "price_toman": 219270,
-    "price_irr": 2192700
+    "price": 222555,
+    "price_toman": 222555,
+    "price_irr": 2225550
   },
   "history": [
     {
@@ -8519,11 +8519,11 @@
       "price_irr": 2192700
     },
     {
-      "timestamp": 1795047233,
+      "timestamp": 1795074637,
       "date": "2026-11-19",
-      "price": 219270,
-      "price_toman": 219270,
-      "price_irr": 2192700
+      "price": 222555,
+      "price_toman": 222555,
+      "price_irr": 2225550
     }
   ]
 }
