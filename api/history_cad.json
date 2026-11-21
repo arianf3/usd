@@ -3,10 +3,10 @@
   "title": "دلار کانادا",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-21 02:07:06",
+  "updated_at": "2026-11-21 06:57:11",
   "total_records": 1218,
   "latest": {
-    "timestamp": 1795214226,
+    "timestamp": 1795231631,
     "date": "2026-11-21",
     "price": 191400,
     "price_toman": 191400,
@@ -8533,7 +8533,7 @@
       "price_irr": 1910000
     },
     {
-      "timestamp": 1795214226,
+      "timestamp": 1795231631,
       "date": "2026-11-21",
       "price": 191400,
       "price_toman": 191400,
